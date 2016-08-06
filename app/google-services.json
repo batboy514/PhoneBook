@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "980864390715",
+    "firebase_url": "https://contactss-a90c8.firebaseio.com",
+    "project_id": "contactss-a90c8",
+    "storage_bucket": "contactss-a90c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980864390715:android:1ea85f28befa8f94",
+        "android_client_info": {
+          "package_name": "com.example.jethro.phonebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980864390715-lg6a6h2s21foqcsjn9e0g9ouj28unb20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlMvAMS6HlefBfMDM4_MxIeS8_kgOurB8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
